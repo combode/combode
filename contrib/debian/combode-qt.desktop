@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Combode
+Comment=Combode P2P Cryptocurrency
+Comment[fr]=Combode, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Combode, eşten eşe kriptografik sanal para birimi
+Exec=combode-qt %u
+Terminal=false
+Type=Application
+Icon=combode128
+MimeType=x-scheme-handler/combode;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/combode-qt usr/bin
+share/pixmaps/combode32.xpm usr/share/pixmaps
+share/pixmaps/combode16.xpm usr/share/pixmaps
+share/pixmaps/combode128.png usr/share/pixmaps
+debian/combode-qt.desktop usr/share/applications
+debian/combode-qt.protocol usr/share/kde4/services/

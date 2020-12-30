@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/combode_bg.qm</file>
+        <file alias="de">locale/combode_de.qm</file>
+        <file alias="en">locale/combode_en.qm</file>
+        <file alias="es">locale/combode_es.qm</file>
+        <file alias="fi">locale/combode_fi.qm</file>
+        <file alias="fr">locale/combode_fr.qm</file>
+        <file alias="it">locale/combode_it.qm</file>
+        <file alias="ja">locale/combode_ja.qm</file>
+        <file alias="pl">locale/combode_pl.qm</file>
+        <file alias="pt">locale/combode_pt.qm</file>
+        <file alias="ru">locale/combode_ru.qm</file>
+        <file alias="sk">locale/combode_sk.qm</file>
+        <file alias="sv">locale/combode_sv.qm</file>
+        <file alias="vi">locale/combode_vi.qm</file>
+        <file alias="zh_CN">locale/combode_zh_CN.qm</file>
+        <file alias="zh_TW">locale/combode_zh_TW.qm</file>
+    </qresource>
+</RCC>
