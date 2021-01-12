@@ -1,4 +1,4 @@
-Combode v1.0.1.1
+Combode v1.0.1.2
 ===============================
 
 > **Official public launch of the Combode project**  
